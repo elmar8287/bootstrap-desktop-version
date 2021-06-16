@@ -4,7 +4,7 @@
 
 > We build our portfolio desktop website from strach using Bootstrap
 
-![Screen Shot](./desktop-version.PNG)
+![Screen Shot](#)
 
 
 ## Built With
@@ -20,7 +20,7 @@
 
 
 ## Live demo
-You can visit live version via [link](https://elmar8287.github.io/portfolio.github.io/)
+You can visit live version via [link](https://elmar8287.github.io/bootstrap-desktop-version/)
 
 
 ## 🤝 Contributing

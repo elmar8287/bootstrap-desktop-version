@@ -1,16 +1,15 @@
-# Portfolio: Desktop version
+# Portfolio: Desktop version using Bootstrap
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> We build our portfolio desktop website
+> We build our portfolio desktop website from strach using Bootstrap
 
 ![Screen Shot](./desktop-version.PNG)
 
-This is the first milestone in the process of creating our portfolio website.
 
 ## Built With
 
-- HTML/CSS
+- HTML/CSS/Bootstrap
 - Figma
 
 ## Authors

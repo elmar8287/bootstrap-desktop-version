@@ -1,8 +1,8 @@
-# Portfolio: Desktop version using Bootstrap
+# Portfolio: Mobil menu creation
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> We build our portfolio desktop website from strach using Bootstrap
+> Add mobile menu - humberger menu
 
 ![Screen Shot](./screenshot.PNG)
 
@@ -11,6 +11,7 @@
 
 - HTML/CSS/Bootstrap
 - Figma
+- Java Script
 
 ## Authors
 
@@ -18,6 +19,9 @@
 
 - GitHub: [@elmar8287](https://github.com/elmar8287)
 
+👤 **Damilare Akintoye**
+
+- GitHub: [@elmar8287](https://github.com/dami1080)
 
 ## Live demo
 You can visit live version via [link](https://elmar8287.github.io/bootstrap-desktop-version/)

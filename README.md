@@ -4,7 +4,7 @@
 
 > We build our portfolio desktop website from strach using Bootstrap
 
-![Screen Shot](#)
+![Screen Shot](./screenshot.PNG)
 
 
 ## Built With

@@ -11,3 +11,24 @@ function toggleMenu(event) {
   menu.classList.toggle('open-menu');
   overlay.forEach((part) => part.classList.toggle('menu-overlay'));
 }
+
+function onClickNavLink() {
+  toggleMenu();
+}
+
+let scrolling = false;
+function onScroll() {
+  scrolling = true;
+}
+
+setInterval(() => {
+  if (scrolling) {
+    scrolling = false;
+    const scrollY = Math.round(window.scrollY);
+    if (scrollY) {
+      appBar.classList.add('elevate-header');
+    } else {
+      appBar.classList.remove('elevate-header');
+    }
+  }
+}, 300);

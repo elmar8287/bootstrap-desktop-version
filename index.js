@@ -32,3 +32,8 @@ setInterval(() => {
     }
   }
 }, 300);
+
+openMenuBtn.addEventListener('click', toggleMenu);
+closeMenuBtn.addEventListener('click', toggleMenu);
+mobileNav.addEventListener('click', onClickNavLink);
+window.addEventListener('scroll', onScroll, { passive: true });

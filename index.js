@@ -39,12 +39,3 @@ const DATA = [
   },
 ];
 // end of JS object
-
-const openMenuBtn = document.getElementById('open-menu');
-const closeMenuBtn = document.getElementById('close-menu');
-const navLinks = document.getElementById('mobile-nav');
-const modalContainer = document.getElementById('modal-container');
-const portfolio = document.getElementById('portfolio');
-const appBar = document.querySelector('.app-bar');
-const menu = document.querySelector('.mobile-menu');
-const container = document.querySelector('.container');

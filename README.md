@@ -21,7 +21,7 @@
 
 👤 **Damilare Akintoye**
 
-- GitHub: [@elmar8287](https://github.com/dami1080)
+- GitHub: [@dami1080](https://github.com/dami1080)
 
 ## Live demo
 You can visit live version via [link](https://elmar8287.github.io/bootstrap-desktop-version/)

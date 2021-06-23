@@ -1,8 +1,8 @@
-# Portfolio: Mobil menu creation
+# Portfolio: Portfolio detail information Popup Window
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Add mobile menu - humberger menu
+> Add popup window. We used here the js objects.
 
 ![Screen Shot](./screenshot.PNG)
 

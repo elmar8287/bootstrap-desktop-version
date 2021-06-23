@@ -39,7 +39,6 @@ const DATA = [
   },
 ];
 // end of JS object
-
 const openMenuBtn = document.getElementById('open-menu');
 const closeMenuBtn = document.getElementById('close-menu');
 const navLinks = document.getElementById('mobile-nav');

@@ -310,14 +310,6 @@ setInterval(() => {
 // Form validation
 // if the email is not match to LowerCase then the alert display
 
-function validateForm() {
-  const x = document.forms.myForm.user_email.value;
-  const mailchecker = x.toLowerCase();
-  if (!x.match(mailchecker)) {
-    alert('Email should be a lower case letters');
-  }
-}
-
 const form = document.getElementById('myForm');
 const email = document.getElementById('user_email');
 const errorMessage = document.getElementById('error-msg');

@@ -315,7 +315,6 @@ function validateForm() {
   const mailchecker = x.toLowerCase();
   if (!x.match(mailchecker)) {
     alert('Email should be a lower case letters');
-    return false;
   }
 }
 

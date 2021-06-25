@@ -218,7 +218,7 @@
             feature that you need built or a project that needs coding. I’d love
             to help with it
           </p>
-          <form name="myForm" action="https://formspree.io/f/xpzklagg" method="POST" onsubmit="return validateForm()">
+          <form id="myForm" action="https://formspree.io/f/xpzklagg" method="POST" onsubmit="return validateForm()">
             <input
               type="text"
               name="user_name"
@@ -245,6 +245,7 @@
               maxlength="500"
               required
             ></textarea>
+            <span id="error-msg" class="error-message"></span>
             <div class="action-button">
               <button type="submit" class="button">Get In Touch</button>
             </div>

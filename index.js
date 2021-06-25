@@ -318,6 +318,16 @@ function validateForm() {
   }
 }
 
+const form = document.getElementById('myForm');
+const email = document.getElementById('user_email');
+const errorMessage = document.getElementById('error-msg');
+form.addEventListener('submit', (x) => {
+  if (email.value.toLowerCase() !== email.value) {
+    x.preventDefault();
+    errorMessage.textContent = 'Use only lowercase letters for your e-mail!';
+  }
+});
+
 openMenuBtn.addEventListener('click', toggleMenu);
 closeMenuBtn.addEventListener('click', toggleMenu);
 navLinks.addEventListener('click', toggleMenu);
